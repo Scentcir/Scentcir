@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Scentcir
-- 👀 
-- 🌱 
-- 💞️ 
-- 📫 
+## 👋 Hi, I’m @Scentcir
+
+
 
 <!---
 Scentcir/Scentcir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
