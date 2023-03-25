@@ -148,7 +148,9 @@
       height="40"
     />
   </a>
-  
+
 </p>
 
-<p align="center">上海❤️制造</p>
+---
+
+<p align="center">Scentcir ❤️ in Shanghai</p>
